@@ -67,4 +67,4 @@ Airbnb_Dashboard/
 
 ## Author
 
-Created by Divyanshu Singh.
+Created by Aryan Kinha.
